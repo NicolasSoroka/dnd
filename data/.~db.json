@@ -1190,12 +1190,6 @@
     },
     {
       "userId": 1,
-      "title": "",
-      "completed": false,
-      "id": 205
-    },
-    {
-      "userId": 1,
       "title": "test",
       "completed": false,
       "id": 206

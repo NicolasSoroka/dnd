@@ -1,10 +1,7 @@
-import { useState } from 'react'
+import TodoList from "./features/todos/TodoList";
 
 function App() {
-
-  return (
-    <h1>app comp</h1>
-  )
+  return <TodoList />;
 }
 
-export default App
+export default App;
